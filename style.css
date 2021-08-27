@@ -1,0 +1,23 @@
+
+#navbar{
+    background-color: rgb(150, 146, 146);
+}
+#ourmenu {
+    font-weight: bold;
+    font-family: 'Prompt', sans-serif;
+    text-align: center;
+    font-size: 2.5em;
+    margin: 20px;
+}
+.add {
+    background-color: rgb(150, 146, 146);
+    margin: 10px;
+    width: 420px;
+    text-align: justify;
+}
+#brand {
+    font-family: 'Prompt', sans-serif;
+}
+#navbar {
+    border: 2px solid black;
+}
